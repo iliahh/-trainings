@@ -13,3 +13,12 @@
     1) https://www.codewars.com/ - несложные задачи
     
     2) https://codeforces.com/ - задачи, приближённые к реальности
+
+3. Полезные ссылки:
+    1) https://habr.com/ru/feed/ - хабр
+
+    2) https://leetcode.com/ - подготовка к собесам
+
+    3) https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781 - ссылка на книжку Go in Action, William Kennedy 
+
+    4) https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440 - ссылка на вторую книжку по Go, Go Programming Language, Alan A. A. Donovan
