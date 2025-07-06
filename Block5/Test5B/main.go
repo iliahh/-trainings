@@ -44,9 +44,10 @@ func main() {
 	var word string
 	fmt.Scan(&word)
 
-	s := New(word) //Вызов метода проверки валидности вводимого
-	if !s.Check() {
+	s := New(word) //Передаём введённое слово в конструктор New()
+
+	if !s.Check() { //Вызов метода проверки валидности вводимого
 		return
 	}
-	fmt.Println(s.FindMax())
+	fmt.Println(s.FindMax()) //Вызов метода для получения макс. стрика
 }
